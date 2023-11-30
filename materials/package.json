@@ -1,0 +1,17 @@
+{
+  "name": "materials",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@types/three": "^0.158.3",
+    "typescript": "^5.3.2",
+    "vite": "^4.5.0"
+  },
+  "dependencies": {
+    "three": "^0.158.0"
+  }
+}
